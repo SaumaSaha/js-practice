@@ -1,0 +1,14 @@
+{
+  "name": "shapes",
+  "version": "1.0.0",
+  "description": "2D shapes package",
+  "main": "shapes.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "Sauma, Swagato",
+  "license": "ISC"
+}

@@ -1,0 +1,18 @@
+{
+	"name": "geometry",
+	"version": "1.0.0",
+	"description": "Geometry package",
+	"main": "main.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"test": "node --test",
+		"start": "node main.js"
+	},
+	"author": "Sauma, Swagato",
+	"license": "ISC",
+	"dependencies": {
+		"shapes": "file:../shapes"
+	}
+}
